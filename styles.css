@@ -1,0 +1,15 @@
+* {
+  background-color:aliceblue;
+}
+
+h1 {
+  font-size: 36px;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.recipe, li {
+  font-size: 24px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+}
